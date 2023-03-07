@@ -3,7 +3,7 @@ import random
 number = random.randint(-10, 10)
 
 if number == 0:
-    print("is zero")
+    print("0 is zero")
 elif number < 0:
     print(f"{number} is negative")
 else:
